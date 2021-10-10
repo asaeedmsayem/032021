@@ -3,7 +3,7 @@ package Javapractice;
 public class ForLoopDec {
 
 	public static void main(String[] args) {
-		// D by 1 
+		// Decrement by 1 
 				for (int x = 10; x >= 0; x--) {
 					System.out.println(x + " ");
 				}
